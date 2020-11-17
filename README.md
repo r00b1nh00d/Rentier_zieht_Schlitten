@@ -6,8 +6,12 @@ Bringe dein Rentier in Bewegung und lass sie den Schlitten des Weihnachtsmanns z
 
 
 ## ~ @unplugged
-Rentier
-![rentier](/RentierGif.gif)
+Rentierneu
+![rentierneu](/static/RentierGif.gif)
+
+## ~ @unplugged
+Rentierneu2
+![rentierneu2](/docs/static/RentierGif.gif)
 
 ## Schritt 1 Ein Rentier anzeigen lassen
 
