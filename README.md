@@ -135,34 +135,10 @@ let Schlitten = images.createImage(`
 ```
 
 ## ~ @unplugged
-Ich hoffe du hattest Spaß mit diesem Tutorial um es weiter zu schicken nutze gerne diesen Link: 
+Ich hoffe du hattest Spaß mit diesem Tutorial um es weiter zu schicken nutze gerne diesen Link: [https://makecode.calliope.cc/#tutorial:https://github.com/r00b1nh00d/rentier_zieht_schlitten/] (https://makecode.calliope.cc/#tutorial:https://github.com/r00b1nh00d/rentier_zieht_schlitten/)
 
 
-> Diese Seite bei [https://r00b1nh00d.github.io/rentier_zieht_schlitten/](https://r00b1nh00d.github.io/rentier_zieht_schlitten/) öffnen
 
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/r00b1nh00d/rentier_zieht_schlitten** suchen und importieren
-
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/r00b1nh00d/rentier_zieht_schlitten/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/r00b1nh00d/rentier_zieht_schlitten** ein und klicke auf Importieren
-
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/r00b1nh00d/rentier_zieht_schlitten/raw/master/.github/makecode/blocks.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
