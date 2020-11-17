@@ -6,6 +6,7 @@ Bringe dein Rentier in Bewegung und lass sie den Schlitten des Weihnachtsmanns z
 
 
 ## Schritt 1 Ein Rentier anzeigen lassen
+![Heart shape in the LEDs](/static/mb/projects/flashing-heart/sim.gif)
 Beginne in dem du die ``||variables: Variable||`` ``||variables: Rentier||`` erstellst. <br>
 Schiebe nun den Block ``||variables: setze Variable auf ||`` in den Block  ``||basic: beim Start||``. <br>
 
