@@ -135,7 +135,7 @@ let Schlitten = images.createImage(`
 ```
 
 ## ~ @unplugged
-Ich hoffe du hattest Spaß mit diesem Tutorial um es weiter zu schicken nutze gerne diesen Link: [https://makecode.calliope.cc/#tutorial:https://github.com/r00b1nh00d/rentier_zieht_schlitten] (https://makecode.calliope.cc/#tutorial:https://github.com/r00b1nh00d/Rentier_zieht_Schlitten)
+Ich hoffe du hattest Spaß mit diesem Tutorial um es weiter zu schicken nutze gerne diesen Link: [https://makecode.calliope.cc/#tutorial:https://github.com/r00b1nh00d/rentier_zieht_schlitten] 
 
 
 
