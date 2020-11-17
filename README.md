@@ -7,7 +7,7 @@ Bringe dein Rentier in Bewegung und lass sie den Schlitten des Weihnachtsmanns z
 
 ## ~ @unplugged
 Rentierneutest
-![rentierneu](/static/RentierGif.gif)
+![rentierneu](/static/unterordner/RentierGif.gif)
 
 ## ~ @unplugged
 Rentierneu2
