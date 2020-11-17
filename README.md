@@ -1,7 +1,7 @@
 # Der Rentierschlitten des Weihnachtsmanns
 
 ## ~avatar avatar @unplugged
-Bringe die Rentiere in Bewegung und lass sie den Schlitten des Weihnachtsmanns ziehen
+Bringe dein Rentier in Bewegung und lass sie den Schlitten des Weihnachtsmanns ziehen
 
 
 ## Schritt 1 Ein Rentier anzeigen lassen
