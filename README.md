@@ -5,7 +5,8 @@ Bringe dein Rentier in Bewegung und lass sie den Schlitten des Weihnachtsmanns z
 ![Rentierschlitten](https://github.com/r00b1nh00d/Rentier_zieht_Schlitten/blob/master/RentierGif.gif)
 
 
-## ~@unplugged
+## ~ @unplugged
+Rentier
 ![Heart shape in the LEDs](/static/mb/projects/flashing-heart/sim.gif)
 
 ## Schritt 1 Ein Rentier anzeigen lassen
